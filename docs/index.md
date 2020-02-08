@@ -1,6 +1,7 @@
 # <center>MkDocs</center>   
 
 <center>使用 Markdown 撰写你的项目文档</center>         
+---
 
 ## 概述  
 MkDocs 是一个快速、简单、完美华丽的静态站点生成器，用于创建说明文档的。文档源码使用 Markdown 来撰写, 而配置文件是使用 YAML 格式。  
