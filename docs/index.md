@@ -1,4 +1,4 @@
-# <center><font face="黑体" size=8>MkDocs</font></center>   
+# <center><font face="黑体" size=10>MkDocs</font></center>   
 
 <center>使用 Markdown 撰写你的项目文档</center>    
 
