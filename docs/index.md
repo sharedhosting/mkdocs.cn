@@ -1,4 +1,4 @@
-# <center><font face="SimHei">MkDocs</font></center>   
+# <center> MkDocs </center>   
 
 <center>使用 Markdown 撰写你的项目文档</center>    
 
