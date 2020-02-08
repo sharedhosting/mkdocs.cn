@@ -23,7 +23,13 @@ MkDocs 默认包含多款优美的主题，默认内置 mkdocs 和 readthedocs �
 ## 安装
 
 ### 使用包管理器安装
-可以使用各种包管理器直接安装（如 apt-get yum brew dnf 等等）直接包管理器安装，版本很可能非常旧，不推荐，推荐使用 pip 安装到最新版本。
+可以使用各种包管理器直接安装（如 [apt-get], [dnf], [homebrew], [yum], [chocolatey] 等等）直接包管理器安装，版本很可能非常旧，不推荐，推荐使用 pip 安装到最新版本。
+
+[apt-get]: https://help.ubuntu.com/community/AptGet/Howto
+[homebrew]: https://brew.sh/
+[dnf]: https://dnf.readthedocs.io/en/latest/index.html
+[yum]: http://yum.baseurl.org/
+[chocolatey]: https://chocolatey.org/   
 
 ### 手动安装
 
