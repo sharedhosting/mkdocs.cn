@@ -6,7 +6,4 @@ repo_url: #
 copyright: Copyright &copy; 2020 <a href="https://mkdocs.cn">MkDocs</a> | <a href="https://billing.virmach.com/aff.php?aff=6188&url=virmach.com/special-offers">Cheapest Hosting</a>.
 #
 theme:  #readthedocs
-nav:
-    - 首页: index.md
-      -- 配置: option.md
-    - 关于: about.md
+
