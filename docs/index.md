@@ -1,6 +1,6 @@
-# <center>MkDocs</center>   
+# <p align="center">MkDocs</p>   
 
-<center>使用 Markdown 撰写你的项目文档</center>    
+<p align="center">使用 Markdown 撰写你的项目文档</p>    
 
 ---
 
